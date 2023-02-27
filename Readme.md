@@ -12,4 +12,5 @@
 
 #### useEffect and Conditional Rendering
 
-2. Tours (in pogress..)
+2. Tours
+3. Reviews (in progress) 
